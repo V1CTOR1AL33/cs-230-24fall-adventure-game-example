@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Player
+comment1.params=startRoom
+comment1.target=Player(gameobjects.Room)
+comment2.params=
+comment2.target=gameobjects.Room\ getCurrentRoom()
+comment3.params=
+comment3.target=void\ displayExits()
+comment4.params=direction
+comment4.target=void\ move(java.lang.String)
+comment5.params=itemName
+comment5.target=void\ takeItem(java.lang.String)
+comment6.params=itemName
+comment6.target=void\ useItem(java.lang.String)
+numComments=7

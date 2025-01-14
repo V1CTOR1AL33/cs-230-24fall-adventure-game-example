@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Actor
+comment1.params=aName\ aDescription\ aRoom
+comment1.target=Actor(java.lang.String,\ java.lang.String,\ Room)
+comment2.params=aRoom
+comment2.target=void\ setRoom(Room)
+comment3.params=
+comment3.target=Room\ getRoom()
+comment4.params=t
+comment4.target=void\ addToInventory(Treasure)
+comment5.params=t
+comment5.target=void\ removeFromInventory(Treasure)
+comment6.params=
+comment6.target=Inventory\ getInventory()
+comment7.params=name
+comment7.target=Treasure\ getTreasureFromInventory(java.lang.String)
+numComments=8

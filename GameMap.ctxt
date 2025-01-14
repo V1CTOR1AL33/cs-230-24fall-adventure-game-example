@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=GameMap
+comment1.params=
+comment1.target=GameMap()
+comment2.params=
+comment2.target=void\ createRooms()
+comment3.params=
+comment3.target=void\ defineExits()
+comment4.params=
+comment4.target=gameobjects.Room\ getStartRoom()
+numComments=5

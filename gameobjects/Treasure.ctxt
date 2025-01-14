@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Treasure
+comment1.params=aName\ aDescription
+comment1.target=Treasure(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment2.text=\r\n\ @return\ the\ value\r\n
+comment3.params=
+comment3.target=java.lang.String\ getDescription()
+comment3.text=\r\n\ @return\ the\ value\r\n
+comment4.params=obj
+comment4.target=boolean\ equals(java.lang.Object)
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6
